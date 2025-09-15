@@ -8,3 +8,4 @@
 * [解决了角色一致性后，漫画创作更容易了#banana黑客松项目解读](https://mp.weixin.qq.com/s/ZbISHwnFinwTqmPg99FPDQ)
 * [Nano Banana Hackathon](https://www.kaggle.com/competitions/banana/writeups)
 * [Towards Fully Automated Manga Translation](https://arxiv.org/pdf/2012.14271)
+* [ai-comic-creator](https://www.kaggle.com/competitions/banana/writeups/ai-comic-creator)
